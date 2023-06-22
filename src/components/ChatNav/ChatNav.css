@@ -1,0 +1,39 @@
+.chatnav {
+  display: flex;
+  background: #f2f2f2;
+  padding: 10px;
+  border-bottom: 2px solid gray;
+}
+
+.chatnav__left {
+  display: flex;
+  align-items: center;
+  padding: 0.98em 1px;
+}
+
+.arow {
+  width: 2rem;
+  height: 2rem;
+}
+
+.chatnav__left > h2 {
+  font-weight: 548;
+  color: black;
+  margin-left: 10px;
+}
+
+.chatnav__right {
+  display: flex;
+  align-items: center;
+  padding: 0.98em 1px;
+  margin-left: auto;
+}
+
+.user {
+  width: 2rem;
+  height: 2rem;
+}
+
+.img-p {
+  width: 40px;
+}
